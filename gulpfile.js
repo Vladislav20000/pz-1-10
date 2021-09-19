@@ -95,4 +95,4 @@ gulp.task('watch', function () {
 });
 
 gulp.task('default', gulp.parallel('sass', 'js-dev', 'browser-sync', 'watch'));
-gulp.task('build', gulp.parallel('clean', 'img', 'sass', 'js-prod', 'copy'));
+gulp.task('build', gulp.series('clean', 'img', 'sass', 'js-prod', 'copy'));
