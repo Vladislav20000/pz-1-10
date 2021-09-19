@@ -46,6 +46,7 @@ Follow this pattern for organization of developed components.
 * [Gulp для самых маленьких](https://webdesign-master.ru/blog/tools/2016-03-09-gulp-beginners.html).
 * [Browsersync + Gulp.js](https://browsersync.io/docs/gulp#gulp-sass-css).
 * [Gulp 4: The new task execution system](https://fettblog.eu/gulp-4-parallel-and-series/).
+* [BEM](https://ru.bem.info/methodology/).
   
 
 
