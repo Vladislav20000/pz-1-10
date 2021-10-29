@@ -5,7 +5,7 @@
 ### Acceptance criteria
 * Use css media queries
 * Use scss 
-* Use css variables
+* Use scss variables
 * Add sourcemap for scss 
 * Markups must be adaptive and responsive according to BEM methodology
 
